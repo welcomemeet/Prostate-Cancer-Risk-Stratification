@@ -74,7 +74,7 @@ Prostate-Cancer-Risk-Stratification/
 - Gene-level models achieved strong classification performance (ROC-AUC evaluated)
 - Pathway-level modeling improved biological interpretability
 - Key cancer-associated pathways showed high feature importance
-- 
+  
 ## 📌 Author
 **Meet Darji**  
 Bioinformatics | Machine Learning | Cancer Genomics
